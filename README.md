@@ -64,11 +64,11 @@ flutter run
 ```
 
 ## 📱 Screenshots
-<img width="180" height="500" alt="1" src="https://github.com/user-attachments/assets/ece6e41b-e130-4c9b-8743-59004198a07f" />
-<img width="180" height="500" alt="3" src="https://github.com/user-attachments/assets/74aad375-0fd7-4c8f-b9e6-7002574e7be8" />
-<img width="180" height="500" alt="2" src="https://github.com/user-attachments/assets/97d3a5f0-af38-490c-8912-861adbe155dc" />
-<img width="180" height="500" alt="4" src="https://github.com/user-attachments/assets/87328de3-0be3-4e5c-aa7d-02fdb0b70656" />
-<img width="180" height="500" alt="5" src="https://github.com/user-attachments/assets/4ea20f4d-4b56-40c2-883f-73f26296e620" />
+<img width="190" height="500" alt="1" src="https://github.com/user-attachments/assets/ece6e41b-e130-4c9b-8743-59004198a07f" />
+<img width="190" height="500" alt="3" src="https://github.com/user-attachments/assets/74aad375-0fd7-4c8f-b9e6-7002574e7be8" />
+<img width="190" height="500" alt="2" src="https://github.com/user-attachments/assets/97d3a5f0-af38-490c-8912-861adbe155dc" />
+<img width="190" height="500" alt="4" src="https://github.com/user-attachments/assets/87328de3-0be3-4e5c-aa7d-02fdb0b70656" />
+<img width="190" height="500" alt="5" src="https://github.com/user-attachments/assets/4ea20f4d-4b56-40c2-883f-73f26296e620" />
 
 ## 📝 How to Use
 
