@@ -64,18 +64,9 @@ flutter run
 ```
 
 ## 📱 Screenshots
-<table>
-  <tr>
-    <td><img src="screenshots/home_question.png" width="200"/></td>
-    <td><img src="screenshots/home_answer.png" width="200"/></td>
-    <td><img src="screenshots/add_card.png" width="200"/></td>
-  </tr>
-  <tr>
-    <td align="center">Question Side</td>
-    <td align="center">Answer Side</td>
-    <td align="center">Add Card</td>
-  </tr>
-</table>
+1. Home screen(Question side)
+   <img width="200" height="500" alt="1" src="https://github.com/user-attachments/assets/ece6e41b-e130-4c9b-8743-59004198a07f" />
+
 
 
 ## 📝 How to Use
