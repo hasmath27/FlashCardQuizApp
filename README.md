@@ -1,5 +1,3 @@
-# 📚 FlashCard Quiz App
-
 A clean and simple Flutter flashcard app for studying.
 
 ## ✨ Features
@@ -53,8 +51,8 @@ lib/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_FlashcardQuizApp.git
-cd CodeAlpha_FlashcardQuizApp
+git clone https://github.com/hasmath27/FlashCardQuizApp.git
+cd FlashcardQuizApp
 
 # Install dependencies
 flutter pub get
@@ -64,8 +62,21 @@ flutter run
 ```
 
 ## 📱 Screenshots
+1. Home screen (Question side)
+   <img width="720" height="1456" alt="1" src="https://github.com/user-attachments/assets/f13700f8-18ec-47bd-8a90-f7d94efdeb20" />
 
-*(Add your app screenshots here)*
+2. Home screen (Answer side)
+   <img width="720" height="1456" alt="2" src="https://github.com/user-attachments/assets/a6c23657-7ec8-4c6e-89e1-f9e712e35e41" />
+
+3. Add/Edit screen
+   <img width="716" height="1456" alt="3" src="https://github.com/user-attachments/assets/2a928190-2929-45dd-9984-9187982ebdce" />
+
+4. All Cards screen
+   <img width="716" height="1460" alt="4" src="https://github.com/user-attachments/assets/288b8168-980b-4f4e-bb89-c8bbe9740296" />
+
+5. Empty state
+   <img width="716" height="1456" alt="5" src="https://github.com/user-attachments/assets/5963f1fc-d9a1-4647-b272-c678d9964149" />
+
 
 ## 📝 How to Use
 
